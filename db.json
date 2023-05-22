@@ -3,20 +3,20 @@
     {
       "id": 1,
       "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
+      "image": "https://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
       "likes": 5
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 10
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 5
     },
     {
       "id": 4,
@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "avatar",
+      "image": "https://www.bing.com/images/search?view=detailV2&ccid=OSkqwvSE&id=D5136CB7C3558D65654E2E9B8E9F8FE8A38F5E2B&thid=OIP.OSkqwvSE2Rj8S_qGTjQdGQHaLI&mediaurl=https%3a%2f%2fi.pinimg.com%2f736x%2f91%2f21%2fb1%2f9121b1870cfbbeeacc5502900e9f2d8e--hot-toys-avatar.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.39292ac2f484d918fc4bfa864e341d19%3frik%3dK16Po%252biPn46bLg%26pid%3dImgRaw%26r%3d0&exph=1107&expw=736&q=toy+avatar+image&simid=608014082229890327&FORM=IRPRST&ck=65991DB39DF3F658FD528987BA810B36&selectedIndex=0&idpp=overlayview&ajaxhist=0&ajaxserp=0",
+      "likes": 0,
+      "id": 9
     }
   ]
 }
